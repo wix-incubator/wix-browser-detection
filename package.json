@@ -1,0 +1,28 @@
+{
+  "name": "wix-browser-detection",
+  "version": "1.0.0",
+  "description": "Browser detection in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine test/*.spec.js"
+  },
+  "registry": "https://registry.npmjs.org/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wix-incubator/wix-browser-detection.git"
+  },
+  "keywords": [
+    "userAgent",
+    "browser",
+    "detection"
+  ],
+  "author": "wow!Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wix-incubator/wix-browser-detection/issues"
+  },
+  "homepage": "https://github.com/wix-incubator/wix-browser-detection#readme",
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}

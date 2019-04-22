@@ -1,6 +1,12 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 Wix.com
+Excerpts from Zepto.js (c) 2010-2016 Thomas Fuchs.
+Based on Zepto's detect module - https://github.com/madrobby/zepto/blob/master/src/detect.js#files
+Zepto.js may be freely distributed under the MIT license. See: https://github.com/madrobby/zepto/blob/master/MIT-LICENSE
+
+Contains changes in source.
+
+Copyright (c) 2019 Wix.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
