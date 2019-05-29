@@ -2,16 +2,9 @@
   "name": "wix-browser-detection",
   "version": "1.0.0",
   "description": "Browser detection in the browser",
-  "main": "dist/santa-browser-detection.js",
+  "main": "index.js",
   "scripts": {
-    "build": "santa-build build",
     "test": "jasmine test/*.spec.js"
-  },
-  "santa-build": {
-    "entry": {
-      "santa-browser-detection": "src/index.js"
-    },
-    "externals": {}
   },
   "registry": "https://registry.npmjs.org/",
   "repository": {
@@ -30,7 +23,6 @@
   },
   "homepage": "https://github.com/wix-incubator/wix-browser-detection#readme",
   "devDependencies": {
-    "jasmine": "^3.4.0",
-    "santa-build": "1.536.0"
+    "jasmine": "^3.4.0"
   }
 }
