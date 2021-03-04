@@ -1,6 +1,6 @@
 {
   "name": "@wix/wix-browser-detection",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Browser detection in the browser",
   "main": "index.js",
   "scripts": {
